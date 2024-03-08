@@ -1,4 +1,4 @@
-# Cyclone-Intensity-Estimation using CNN & RNN
+# Cyclone-Intensity-Estimation using CNN & RNN :
 
 1. Dataset Collection.
 2. Data Pre-processing.
